@@ -26,3 +26,6 @@ Site: https://rlgfsolutionssistemas.com.br
 - Jenkins: http://192.168.10.50:8080
 - Redis: 192.168.10.20:6379
 - API interna: 192.168.10.30:8000
+
+Arquivo de configuração:
+.env contendo DB_PASSWORD e API_KEY
